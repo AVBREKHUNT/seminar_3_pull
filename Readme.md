@@ -2,4 +2,4 @@
 
 ## it's first message from Brekhuntsov
 
-## it's massage my friend
+## it's message my friend
